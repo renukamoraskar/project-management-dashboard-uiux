@@ -1,36 +1,64 @@
-# project-management-dashboard-uiux
-## Overview
+# 📊 Project Management Dashboard UI/UX
 
-This project focuses on designing a Project Management Dashboard aimed at improving task tracking, team collaboration, and overall workflow efficiency. The goal was to create a clean, intuitive, and data-driven interface that helps users manage projects with clarity and ease.
+## 🧩 Overview
+This project focuses on designing a project management dashboard to improve task tracking, team collaboration, and workflow visibility. The goal was to create a clean, intuitive, and data-driven interface that simplifies complex workflows.
 
-## Problem
+---
 
-Managing multiple tasks, deadlines, and team members can become overwhelming when information is scattered or poorly structured. Users often struggle with lack of visibility, inefficient navigation, and difficulty in tracking progress.
+## 🚨 Problem
+Managing multiple tasks and teams often leads to confusion due to scattered information, poor visibility, and cluttered interfaces. Users struggle to quickly understand project status and priorities.
 
-## Solution
+---
 
-The dashboard was designed to provide a centralized and user-friendly interface where users can:
+## 💡 Solution
+Designed a centralized dashboard that allows users to:
 
-- Track project progress in real time  
-- Manage tasks and deadlines efficiently  
-- Monitor team activity and performance  
-- Access key information quickly through a clear and structured layout  
+- Track tasks and deadlines efficiently  
+- Monitor project progress in real time  
+- View team performance and activity  
+- Access key information quickly through a structured layout  
 
-## Design Approach
+---
 
-The design process focused on:
+## 🎯 Design Approach
+- Focused on clear information hierarchy  
+- Reduced cognitive load through clean layouts  
+- Used visual elements for better data understanding  
+- Ensured intuitive navigation and usability  
 
-- Creating a clear information hierarchy  
-- Reducing cognitive load through clean layouts  
-- Using visual cues and data representation for better understanding  
-- Ensuring intuitive navigation and accessibility  
+---
 
-## Tools Used
+## 🖼️ UI Screens
 
+### 🔹 Dashboard Overview
+![Dashboard](./1.%20Intro%20Page.png)
+
+### 🔹 Project Overview
+![Overview](./2.%20Overview.png)
+
+### 🔹 Target Users
+![Users](./3.%20Target%20User.png)
+
+### 🔹 UI Interaction
+![UI](./4.%20UI%20design.gif)
+
+### 🔹 Experience Screen
+![Experience](./5.%20Experience%20App.png)
+
+---
+
+## 🛠️ Tools Used
 - Figma  
-- Design Systems  
+- UX Research  
 - Wireframing & Prototyping  
+- AI-assisted design exploration  
 
-## Outcome
+---
 
-The final design delivers a streamlined dashboard experience that improves usability, enhances productivity, and supports better decision-making through clear data visualization and structured workflows.
+## 🚀 Outcome
+The final design delivers a clean and structured dashboard experience that improves usability, enhances productivity, and supports better decision-making through clear data visualization.
+
+---
+
+## 👩‍💻 About Me
+UI/UX Designer with a background in architecture, focused on creating user-centered digital experiences.
